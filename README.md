@@ -16,3 +16,4 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 **Solution**
 
 Developed two models (3D Covnvolutional and Cov2D+RNN )that are able to give good accuracy on the least number of parameters. 
+ 
